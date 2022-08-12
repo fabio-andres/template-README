@@ -2,6 +2,10 @@
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
+# Preview
+
+_Insetar imagen que muestre como se ve el proyecto
+
 ## Getting Started 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
