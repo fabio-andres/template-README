@@ -2,7 +2,7 @@
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-# Preview
+## Preview
 
 _Insetar imagen que muestre como se ve el proyecto
 
