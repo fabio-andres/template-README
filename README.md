@@ -6,7 +6,9 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 Insetar una imagen que muestre como se ve el proyecto. Para hacer esto usar el siguiente codigo md (markdown)
 
-![](url de la imagen o ruta local de la imagen en el repositorio de github)
+![](url de la imagen)
+
+la url de la imagen se puede obtener subiendo dicha imagen al repositorio de github, despues, dar click derecho sobre la imagen y seleccionar copiar vinculo
 
 ## Getting Started 🚀
 
