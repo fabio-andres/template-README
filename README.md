@@ -4,7 +4,7 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 ## Preview
 
-_Insetar imagen que muestre como se ve el proyecto. Para hacer esto usar el siguiente codigo md (markdown)
+Insetar una imagen que muestre como se ve el proyecto. Para hacer esto usar el siguiente codigo md (markdown)
 
 ![](url de la imagen o ruta local de la imagen en el repositorio de github)
 
